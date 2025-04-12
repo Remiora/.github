@@ -1,4 +1,4 @@
-# 🌊 REMIORA
+# R  E  M  I  ◊  R  A
 
 > “Every wave carries a memory. This is one of them.”
 
@@ -11,7 +11,7 @@ to future **interactive albums**, **ritual-based microgames**, and **experimenta
 
 ---
 
-## 🧜‍♀️ What Is Remiora?
+## What Is Remiora?
 
 Remiora is a **world**.
 
